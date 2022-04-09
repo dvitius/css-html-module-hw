@@ -1,0 +1,18 @@
+body {
+  background: rgb(253, 163, 72);
+  color: black
+}
+
+p {
+  background: rgb(235, 122, 9);
+  color: rgb(255, 255, 255)
+}
+
+#my-super-p {
+  background: rgb(124, 246, 138);
+  color: black
+}
+
+.list {
+  border: 4px solid black;
+}
